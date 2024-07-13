@@ -15,7 +15,7 @@ def send_request(messages, response_queue, stop_event):
     url = "http://aidodoapi.ates.top:3000/v1/chat/completions"
     # 请求头
     headers = {
-        'Authorization': 'Bearer sk-7C6d3vJK6LTKvuN5Eb6091Ff7663440cB703B17628907291',
+        'Authorization': 'Bearer sk-我的代码是流调用,但是日志出现了非流,代表有人用我的API干别的,所以,只有2进制发行版可以免费使用,代码中key无效',# https://github.com/xwy-morax/FreeClaude35Assistant/blob/main/%E5%85%8D%E8%B4%B9%E5%8F%AF%E7%94%A8.exe
         'Content-Type': 'application/json; charset=utf-8'
     }
     # 请求体
