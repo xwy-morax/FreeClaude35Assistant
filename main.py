@@ -12,7 +12,7 @@ import sys
 def send_request(messages, response_queue, stop_event):
     """发送请求到AI服务器并处理响应"""
     # API端点
-    url = "http://154.40.59.71:3000/v1/chat/completions"
+    url = "http://aidodoapi.ates.top:3000/v1/chat/completions"
     # 请求头
     headers = {
         'Authorization': 'Bearer sk-7C6d3vJK6LTKvuN5Eb6091Ff7663440cB703B17628907291',
