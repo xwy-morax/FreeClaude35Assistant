@@ -180,6 +180,8 @@ pip install requests
 ## 贡献指南
 
 我们欢迎对本项目的贡献！如果您想为项目做出贡献，请遵循以下步骤：
+### 最直接方法:
+ ![79f3055061ab84fee4ad26dbb13d971](https://github.com/user-attachments/assets/7dbefaaa-ebcc-47c1-9f64-ae295664ca3f)
 
 1. Fork 本仓库
 2. 创建您的特性分支 (git checkout -b feature/AmazingFeature)
