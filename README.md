@@ -3,7 +3,7 @@
 ## 项目简介
 
 FreeClaude35Assistant 是一个基于 Python 开发的 AI 助手应用程序，集成了强大的 Claude-3-5-Sonnet 模型。该项目提供了终端和图形界面两种交互模式，支持实时流式输出，为用户带来流畅的对话体验。项目地址：https://github.com/xwy-morax/FreeClaude35Assistant
-
+### 被举报了兄弟们,linux.do帖子没了
 ## 核心特性
 
 1. **Claude-3-5-Sonnet 模型集成**：
