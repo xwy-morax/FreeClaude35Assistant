@@ -12,7 +12,7 @@ import sys
 def send_request(messages, response_queue, stop_event):
     """发送请求到AI服务器并处理响应"""
     # API端点
-    url = "http://aidodoapi.ates.top:3000/v1/chat/completions"
+    url = "http://接口:3000/v1/chat/completions"
     # 请求头
     headers = {
         'Authorization': 'Bearer sk-我的代码是流调用,但是日志出现了非流,代表有人用我的API干别的,所以,只有2进制发行版可以免费使用,代码中key无效',# https://github.com/xwy-morax/FreeClaude35Assistant/blob/main/%E5%85%8D%E8%B4%B9%E5%8F%AF%E7%94%A8.exe
