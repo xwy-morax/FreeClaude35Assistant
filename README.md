@@ -58,7 +58,7 @@ FreeClaude35Assistant 是一个基于 Python 开发的 AI 助手应用程序，�
 通过 API 调用实现：
 
 ```python
-url = "http://aidodoapi.ates.top:3000/v1/chat/completions"
+url = "http://接口:3000/v1/chat/completions"
 headers = {
     'Authorization': 'Bearer sk-7C6d3vJK6LTKvuN5Eb6091Ff7663440cB703B17628907291',# 此key失效,请在发行版使用
     'Content-Type': 'application/json; charset=utf-8'
