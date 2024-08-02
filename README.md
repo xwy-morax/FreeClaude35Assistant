@@ -1,10 +1,9 @@
 # FreeClaude35Assistant
 
 ## 项目简介
-# 由于key被恶意抓包,停止服务
+
 FreeClaude35Assistant 是一个基于 Python 开发的 AI 助手应用程序，集成了强大的 Claude-3-5-Sonnet 模型。该项目提供了终端和图形界面两种交互模式，支持实时流式输出，为用户带来流畅的对话体验。项目地址：https://github.com/xwy-morax/FreeClaude35Assistant
-### 被举报了兄弟们,linux.do帖子没了
-# 我的代码是流调用,但是日志出现了非流,代表有人用我的API干别的,所以,现在起,只有2进制发行版可以免费使用,代码中key无效
+
 ## 核心特性
 
 1. **Claude-3-5-Sonnet 模型集成**：
@@ -60,7 +59,7 @@ FreeClaude35Assistant 是一个基于 Python 开发的 AI 助手应用程序，�
 ```python
 url = "http://接口:3000/v1/chat/completions"
 headers = {
-    'Authorization': 'Bearer sk-7C6d3vJK6LTKvuN5Eb6091Ff7663440cB703B17628907291',# 此key失效,请在发行版使用
+    'Authorization': 'Bearer sk-1234',# 此key无效
     'Content-Type': 'application/json; charset=utf-8'
 }
 payload = {
